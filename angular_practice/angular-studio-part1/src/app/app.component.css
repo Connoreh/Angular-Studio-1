@@ -1,0 +1,14 @@
+.box {
+    display: flex;
+    padding: 10px;
+ }
+ .bg {
+    text-align: center;
+    background-color: springgreen;
+    border-radius: 5px;
+ }
+ app-experiments{
+    background-color: royalblue;
+    font-family: cursive;
+    border-style: dashed;
+ }
